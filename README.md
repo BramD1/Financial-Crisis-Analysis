@@ -19,7 +19,7 @@ Libraries: Pandas, SciPy, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn
 
 Tools: Jupyter Notebook, Tableau
 
-## 🚀 Implementation Part 1
+## 🚀 Workflow Part 1
 ### 1️ Data Loading & Cleaning
 In this part, there are no missing value, only useless column which is OpenInt.
 ### 2️ Data Analysis 
@@ -35,7 +35,7 @@ I gathered insight which makes it possible to answer these questions:
 ### 3 Result and Conclusion
 Overall stock price seems to be always increasing, but there is a price fall detected in 2006 and 2008. Among the 3 period divided, the 2 years after the crisis seems to be the period where the company achieve the most success. The best time to invest according to the analysis in notebook was during the 4th quartile of 2008.
 
-## 🚀 Implementation Part 2 (Time Series)
+## 🚀 Workflow Part 2 (Time Series)
 ### 1 Data Loading and Filtering
 This is the part where I extract the stock market data from the year 2005-2011 because I want to test if I can create a good forecasting model using time series.
 ### 2 Time Series EDA (Exploratory Data Analysis)

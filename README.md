@@ -51,4 +51,5 @@ The score for the MAE is 1.674107, while the MAPE is 0.018089
 The model has successfully predict an upward trend of the stock movement. If an investor was to buy the stock at 2010 or before, he/she is making a good decision.
 
 📬 Connect With Me
+
 💼 Linkedin: https://www.linkedin.com/in/bramantyo-anandaru-suyadi-0b9729208/ 

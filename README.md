@@ -1,3 +1,4 @@
+![Alt text](image.png)
 # 📊 Project Title: Financial Analysis with Time Series Prediction
 ## 📝 Overview
 This is a Financial Analysis project to check the stock price performance of a company known as AGG Power Solutions. In this notebook, I am aiming to gather insights regarding how the company performs during the 2008 financial crisis that is happening in the United States of America. The second part of the notebook is a time series prediction of the stock, where I predict how the company performs one yar after the recovery period (2010). This analysis will hopefully provide an interesting insight for potential investors of this company.
